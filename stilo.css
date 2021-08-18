@@ -1,0 +1,122 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.top-section{
+font-size: 20px;
+width: 450px;
+border: none;
+background-color: gainsboro;
+padding-bottom: 10px;
+padding-top: 10px;
+border-right-style: solid;
+border-left-style: solid;
+border-top-style: solid;
+    
+}
+
+.circle-image{
+width: 120px;
+height: 120px;
+border-radius: 50%;
+border-right-style: solid;
+border-left-style: solid;
+border-top-style: solid;
+}
+
+.title{
+ float: right;   
+ margin-right: 70px;
+}
+
+.let{
+   line-height: 0.5px;
+   float: left;
+   width: 50%;
+   color:black;
+    
+}
+
+.subti{
+    color: deepskyblue;
+}
+
+.education{
+    width: 450px;
+    height: 150px;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    background-color: gray;
+}
+
+.Abilities{
+    width: 450px;
+    height: 150px;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    background-color: gray;
+}
+
+.Work-experience{
+    width: 450px;
+    height: 150px;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    background-color: gray;
+}
+
+.Project-experience{
+    width: 450px;
+    height: 150px;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    background-color: gray;
+}
+
+.Professional-interests{
+    width: 450px;
+    height: 150px;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    background-color: gray;
+}
+
+.Software-domain{
+    width: 450px;
+    height: 150px;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    background-color: gray;
+}
+
+.Knowledge-of-languages{
+    width: 450px;
+    height: 150px;
+    border-width: 3px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    background-color: gray;
+}
+/*Imagen de fondo*/
+body{
+    margin: 0;
+    padding: 0;
+    background: url(fondo.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
